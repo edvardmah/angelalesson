@@ -1,11 +1,18 @@
-h1{
-    color: aqua;
+body{
+    background-image: url(./img/US_flag_51_stars.svg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
 }
 
-.edic{
-    color: brown;
+.center{
+    text-align: center;     
 }
 
 .img{
     height: 250px;
+}
+
+.flag{
+    height: 240px;
 }
